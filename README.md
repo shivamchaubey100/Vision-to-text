@@ -23,4 +23,25 @@
 - Also if you want to master pandas and numpy, the following resources can be referred:
   - [Numpy 100 puzzles](https://github.com/rougier/numpy-100)
   - [Pandas 100 puzzles](https://github.com/ajcr/100-pandas-puzzles) (Recommended)
+ 
+## Week 2
+
+### Resources :
+- Linear Regression :
+    - [PDF_1](intro_regression.pdf)
+    - [PDF_2](linear_regression.pdf)
+- Logistic Regression :
+    - [PDF_1](logistic_regression.pdf)
+- Bias and Variance :
+    - [PDF_1](bias_variance.pdf)
+
+These are my course slides and are a little more maths centric so if you want you can just read them once.
+
+### Video Lectures :
+- [Gradient Descent](https://www.youtube.com/watch?v=sDv4f4s2SB8)
+- [Stochastic Gradient Descent](https://www.youtube.com/watch?v=vMh0zPT0tLI)
+- [Linear Regression](https://www.youtube.com/watch?v=7ArmBVF2dCs)
+- [Logictic Regression](https://www.youtube.com/watch?v=yIYKR4sgzI8)
+
+You can check out these videos it will give you some good visualization and intuition.
 
